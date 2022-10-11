@@ -19,6 +19,8 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/anson_dz#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/anson_dz#gh-dark-mode-only)
 
+<br/>
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
@@ -31,8 +33,6 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]
 
 <br/>
-<br/>
-
 ### Github Stats:
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theonlyanson&theme=dark&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=theonlyanson&show_icons=true&theme=dark&count_private=true" />
