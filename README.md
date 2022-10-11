@@ -12,8 +12,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/AnsonSarosh#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/AnsonSarosh#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/anson-sarosh-dsouza#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/anson-sarosh-dsouza#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/anson-sarosh-dsouza-09a66a1ab#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/anson-sarosh-dsouza-09a66a1ab#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/anson_dz#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/anson_dz#gh-dark-mode-only)
