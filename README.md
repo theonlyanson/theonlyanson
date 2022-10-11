@@ -8,6 +8,11 @@
 - 👯 I’m looking to collaborate on other cybersec analysts
 - ⚡ Fun fact: I like to draw and play piano
 
+### Connect with me:
+[![website](./img/twitter-light.svg)](https://twitter.com/AnsonSarosh#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/AnsonSarosh#gh-dark-mode-only)
+&nbsp;&nbsp;
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theonlyanson&theme=dark&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=theonlyanson&show_icons=true&theme=dark&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonlyanson&theme=dark&show_icons=true&layout=compact&hide=css,scss&count_private=true"/>
