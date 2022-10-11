@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-**theonlyanson/theonlyanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+[![@anson_dz's Holopin board](https://holopin.io/api/user/board?user=anson_dz)](https://holopin.io/@anson_dz)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
