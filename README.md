@@ -32,7 +32,7 @@
 
 ### Github Stats:
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theonlyanson&theme=dark&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=theonlyanson&show_icons=true&theme=dark&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonlyanson&theme=dark&show_icons=true&layout=compact&hide=css,scss&count_private=true"/>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=theonlyanson&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theonlyanson&theme=hacker_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=theonlyanson&show_icons=true&theme=hacker_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonlyanson&theme=hacker&show_icons=true&layout=compact&hide=css,scss&count_private=true"/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=theonlyanson&rank=AA,B,AAA,A,C&theme=hacker&count_private=true" />
