@@ -28,6 +28,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-.-yellow)
 ![GitHub](https://img.shields.io/badge/GitHub-.-blueviolet)
 ![Terminal](https://img.shields.io/badge/Terminal-.-red)
+![Linux](https://img.shields.io/badge/Linux-.-plastic)
 
 
 ### Github Stats:
