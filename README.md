@@ -40,6 +40,7 @@
 
 <img alt="Theonlyanson's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=theonlyanson&theme=react-dark&area=true" width="100%">
 
+<center><img alt="coding" width="500"  src="https://media.tenor.com/JPX5iWzkrfQAAAAS/akudama-drive-anime.gif"></center>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theonlyanson&theme=dark&count_private=true"  />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=theonlyanson&show_icons=true&theme=dark&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonlyanson&theme=dark&show_icons=true&layout=compact&hide=css,scss&count_private=true"/>
