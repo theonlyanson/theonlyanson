@@ -43,7 +43,7 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theonlyanson&theme=dark&count_private=true"  />
 <!--gif-->
-<img align="right" alt="coding" width="330"  src="https://media.tenor.com/JPX5iWzkrfQAAAAS/akudama-drive-anime.gif">
+<img align="right" alt="coding" height="100" width="330"  src="https://media.tenor.com/JPX5iWzkrfQAAAAS/akudama-drive-anime.gif">
 <!---->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=theonlyanson&show_icons=true&theme=dark&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonlyanson&theme=dark&show_icons=true&layout=compact&hide=css,scss&count_private=true"/>
