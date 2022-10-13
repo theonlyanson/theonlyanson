@@ -1,4 +1,4 @@
-# Hello, folks!,This is Anson - aka theonlyanson...👋
+# Hello folks!,This is Anson - aka theonlyanson...👋
 
 
 [![@anson_dz's Holopin board](https://holopin.io/api/user/board?user=anson_dz)](https://holopin.io/@anson_dz)
