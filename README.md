@@ -3,7 +3,7 @@
 
 [![@anson_dz's Holopin board](https://holopin.io/api/user/board?user=anson_dz)](https://holopin.io/@anson_dz)
 
-<img align="center" alt="error" width="300"  src="https://cdn.dribbble.com/users/4047034/screenshots/9176275/media/b40e0d6c115634a62ec51c9b68a16f3f.gif">
+<img align="left" alt="error" width="300"  src="https://cdn.dribbble.com/users/4047034/screenshots/9176275/media/b40e0d6c115634a62ec51c9b68a16f3f.gif">
 
 - 🔭 I’m currently working on cyber security :)
 - 🌱 I’m currently learning everything...🤣
