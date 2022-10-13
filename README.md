@@ -36,6 +36,8 @@
 
 ### Github Stats:
 
+<img alt="Sajal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sajal24&theme=react-dark&area=true" width="100%">
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theonlyanson&theme=dark&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=theonlyanson&show_icons=true&theme=dark&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonlyanson&theme=dark&show_icons=true&layout=compact&hide=css,scss&count_private=true"/>
