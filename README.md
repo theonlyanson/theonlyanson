@@ -21,7 +21,7 @@
 
 ### Languages and Tools:
 
-![visual studio code](https://img.shields.io/badge/-visual-studio-code-333333?style=flat&logo=C%2B%2B&logoColor=visual-studio-code)
+![visual studio code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=C%2B%2B&logoColor=VScode)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=C)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=C++)
