@@ -41,7 +41,7 @@
 
 <img alt="Theonlyanson's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=theonlyanson&theme=react-dark&area=true" width="100%">
 
-<img align="right" alt="codings" width="330" src"https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="coding" width="330"  src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theonlyanson&theme=dark&count_private=true"  />
 <!--gif-->
 <img align="right" alt="coding" width="330"  src="https://media.tenor.com/JPX5iWzkrfQAAAAS/akudama-drive-anime.gif">
