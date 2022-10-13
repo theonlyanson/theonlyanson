@@ -26,7 +26,7 @@
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=C)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=C++)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![MySQL](https://img.shields.io/badge/MySQL-.-yellow)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 ![GitHub](https://img.shields.io/badge/GitHub-.-blueviolet)
 ![Terminal](https://img.shields.io/badge/Terminal-.-red)
 ![Linux](https://img.shields.io/badge/Linux-.-plastic)
