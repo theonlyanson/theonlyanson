@@ -35,6 +35,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub)
 ![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=Terminal)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
+![Hackthebox](https://img.shields.io/badge/-Hackthebox-333333?style=flat&logo=Hackthebox)
 
 
 ### Github Stats:
