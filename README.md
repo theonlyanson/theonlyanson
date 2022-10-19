@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100"/>
+</div>
 # Hello folks!,This is Anson - aka theonlyanson...👋
 ![](https://komarev.com/ghpvc/?username=theonlyanson&color=brightgreen&styl=plastic)
 <div id="header" align="center">
