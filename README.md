@@ -38,6 +38,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=C%2B%2B&logoColor=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=GitLab)
 ![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=Terminal)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 ![Hackthebox](https://img.shields.io/badge/-Hackthebox-333333?style=flat&logo=Hackthebox)
