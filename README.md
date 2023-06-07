@@ -48,8 +48,9 @@
 ### Github Stats:
 <!--
 <img alt="Theonlyanson's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=theonlyanson&theme=react-dark&area=true" width="100%">
--->
+
 [![Anson's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=theonlyanson&bg_color=000000&color=44ff00&line=5c4747&point=ffeb0a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 <img align="right" alt="coding" width="330"  src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theonlyanson&theme=dark&count_private=true"  />
 <!--gif-->
